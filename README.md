@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="left"> 
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukiyamazaki&&count_private=true&theme=nightowl&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyamazaki&layout=compact&show_icons=true&theme=onedark" />
+</p>
+
+
+
 
 <!--
 **yukiyamazaki/yukiyamazaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
